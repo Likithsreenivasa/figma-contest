@@ -1,0 +1,78 @@
+.box{
+    display:flex;
+    width: 1643px;
+    height: 648px;
+    border:2px solid red;
+    align-items: center;
+    justify-content: center;
+
+}
+.inner-box{
+    Width :1540.51px; 
+    Height :500.54px;
+    position: relative;
+    border:2px solid rgb(214, 197, 84);
+    padding: 20px;
+}
+p{
+    font-family:Inter;
+    font-weight: 400;
+    font-size: 40px;
+     line-height: 48.41px;
+}
+h2{
+    font-family: Inter;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 77px;
+        letter-spacing: 0em;
+        text-align: left;
+    
+}
+.images{
+    Width: 962px;
+     Height: 77px;
+     border: 2px solid red;
+    font-weight: 700;
+    font-size: 64px;
+}
+img{
+    position:absolute;
+    width: 1051px;
+    height: 762px;
+}
+.more{
+    position: absolute;
+        width: 245px;
+        height: 48px;
+        left: 58px;
+        top: 1670px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 48px;
+        text-decoration-line: underline;
+    
+        color: #000000;
+}
+.second-box{
+    position: absolute;
+        width: 1623px;
+        height: 469px;
+        left: 58px;
+        top: 1795px;
+}
+.trivia{
+    font: Inter;
+    font-weight:  700;
+    font-size: 64px; 
+    line-height:  77.45px;
+}
+.list{
+    font: Inter;
+    font-weight: 400;
+    font-size: 40px; 
+    line-height:  48.41px;
+}
